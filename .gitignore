@@ -1,0 +1,4 @@
+/.ssl
+/build
+/dist
+/*.egg-info
